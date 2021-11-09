@@ -1,7 +1,7 @@
 #### Hello there 👋 I'm DanTTV (Daniele) and I'm a Student and a Developer!
 
 - 🔭 I’m currently working on a lot of secrets projects
-- 🌱 I’m currently learning Java and a little bit of JavaScript and Python basics too
+- 🌱 I’m currently learning Java and a little bit of JavaScript, C++ and Python basics too
 - 💻 Languages I know: Java, HTML, CSS. (More on the way, hopefully)
 - 🏢 Organization: [MultiCore Network](https://github.com/MultiCoreNetwork)
 - 🙋🏻‍♂️ Techical Manager and Developer of [MultiCore Network](https://multicore.network)
