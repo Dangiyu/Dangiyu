@@ -39,13 +39,7 @@
   <a href="mailto:dan@multicore.network"><img align="left" alt="Email" width="26px" src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667"/></a>Email &middot; <a href="mailto:dan@multicore.network">dan@multicore.network</a>
 </p>
 <p>
-  <a href="https://multicore.network/discord"><img align="left" alt="Discord" width="26px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667"/></a>Discord &middot; <a href="https://multicore.network/discord">@TwDan#2199</a>
-</p>
-<p>
-  <a href="https://twitch.tv/TwDan"><img align="left" alt="Twitch" width="26px" src="https://camo.githubusercontent.com/c5942c39052ad962364ea8286a6991f7a9b036bf1d96d20db346d9dfd844dfa4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667"/></a>Twitch &middot; <a href="https://twitch.tv/TwDan">twitch.tv/TwDan</a>
-</p>
-<p>
-  <a href="https://instagram.com/dan.ttv"><img align="left" alt="Instagram" width="26px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/></a>Instagram &middot; <a href="https://instagram.com/dan.ttv">@dan.ttv</a>
+  <a href="https://multicore.network/discord"><img align="left" alt="Discord" width="26px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667"/></a>Discord &middot; <a href="https://multicore.network/discord">@dangiyu</a>
 </p>
 
 <p align="center">
