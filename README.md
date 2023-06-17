@@ -48,6 +48,6 @@
   <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanTTV&show_icons=true&count_private=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dangiyu&show_icons=true&count_private=true&theme=dracula"/>
 </a>
 </p>
