@@ -29,7 +29,7 @@
   <a href="https://github.com/MultiCoreNetwork"><img align="left" alt="MultiCore Network" width="26px" src="https://multicore.network/images/favicon.ico"/>MultiCore Network Organization</a>
 </p>
 
-### 🙋🏻‍♂️ Technical Manager and Developer of:
+### 🙋🏻‍♂️ Technical Manager and Developer at:
 <p>
   <a href="https://multicore.network"><img align="left" alt="MultiCore Network" width="26px" src="https://multicore.network/images/favicon.ico"/>MultiCore Network</a>
 </p>
