@@ -39,7 +39,7 @@
   <a href="mailto:dan@multicore.network"><img align="left" alt="Email" width="26px" src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667"/></a>Email &middot; <a href="mailto:dan@multicore.network">dan@multicore.network</a>
 </p>
 <p>
-  <a href="https://multicore.network/discord"><img align="left" alt="Discord" width="26px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667"/></a>Discord &middot; <a href="https://multicore.network/discord">@dangiyu</a>
+  <a href="https://multicore.network/discord"><img align="left" alt="Discord" width="26px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667"/></a>Discord &middot; <a href="https://multicore.network/discord">MultiCore Network</a>
 </p>
 
 <p align="center">
