@@ -28,7 +28,6 @@
 <p>
   📨 Email &middot; <a href="mailto:dan@multicore.network">dan@multicore.network</a>
 </p>
-<p>
 
 <p align="center">
   <br>
